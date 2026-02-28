@@ -12,10 +12,15 @@ Check out the live site here:[The Distro Library](https://thedistrolibrary.netli
 ---
 
 ##🚀 Features
+
 -Curated selection of popular Linux distros and BSD systems
+
 -Categories for beginners, Cybersecurity, Gaming, Old hardware, Rolling Releases and Servers
+
 -Clean and modern UI for easy navigation
+
 -Quick download links for each OS
+
 -Responsive design for mobile and desktop
 
 --
