@@ -1,4 +1,4 @@
-# open source library 
+# distribution library 
 [![Website](https://img.shields.io/badge/Visit-The%20Distro%20Library-blue)](https://thedistrolibrary.netlify.app)[![License](https://img.shields.io/badge/License-MIT-green)]()
 
 Welcome to **Open Source Library**, your ultimate hub for discovering, comparing, and downloading the best open source operating systems! From Linux distributions to BSD systems, we°ve curated a collection to make it easy for you to find the perfect OS for your needs.
